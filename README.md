@@ -1,5 +1,7 @@
 # ocr
-u must install tesseractso that this project could work
+<h4>a mini programe that use the technologie  " optical character recognition "  using c#</h4>
+
+u must install tesseract so that this project could work
 
 for more information:
 
